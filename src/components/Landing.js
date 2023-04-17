@@ -79,7 +79,7 @@ export default function Album() {
               color="textPrimary"
               gutterBottom
             >
-              Home Page - Marketing
+              Home Page - Marketing-2
             </Typography>
             <Typography
               variant="h5"
